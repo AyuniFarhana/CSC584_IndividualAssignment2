@@ -8,22 +8,22 @@ The Personal Profile Management System is a web-based application developed usin
 
 IMPLEMENTED FEATURES
 
-Add New Profile 
+Add New Profile ->
 User can enter student information and it will be stored in StudentProfilesDB database using JDBC. 
 
-Duplicate Student ID 
+Duplicate Student ID ->
 The system prevent duplicate Student ID from being inserted in database 
 
-View All Profiles 
+View All Profiles ->
 Display all profile records stored in the database Information is presented in a structured Bootstrap table for better readability. 
 
-Edit Profile 
+Edit Profile ->
 Users can update existing profile information Changes are saved directly to the database 
 
-Delete Profile 
+Delete Profile ->
 User can delete profiles record from database A confirmation message is displayed before deletion 
 
-Search Profile 
+Search Profile ->
 User can search profile using Student ID or Name
 
 Screenshots of the System (in Individual Assignment File)
